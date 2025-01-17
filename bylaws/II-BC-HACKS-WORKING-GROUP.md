@@ -35,7 +35,7 @@ All members excluding the CSCU Representative of the the BCHWG may remain member
 - They want to
 - The members of the BCHWG don't decide to remove them from the team.
 
-The CSCU Representative serves as the CSCU Representative from the time they are appointed until the end of the subsequent CSCU election. The newly elected team of the CSCU shall be responsible for appointing a new CSCU Representative.
+The CSCU Representative serves as the CSCU Representative from the time they are appointed until the end of the subsequent CSCU election. The CSCU Executive Council may decide to replace the CSCU Representative at will. The newly elected team of the CSCU shall be responsible for appointing a new CSCU Representative.
 
 If all members of the BCHWG decide a member should be removed except for the member in question, judgment shall be deferred to the CSCU Executive Council.
 
@@ -58,6 +58,12 @@ The CSCU shall not impede on the operations of the BCHWG conducted through the C
 ## 4. Disbandment
 
 The BCHWG may be disbanded for a term if the BCHWG decides it should be disbanded.
+
+If the BCHWG is dispanded, all digital assets essential to running and preserving history related to the BC Hacks project should be archived and placed under the the stewardship of the CSCU Executive Council. The CSCU Executive Council must preserve this archive and pass it to future leadership. Assets include but are not limited to:
+- Budgets
+- Branding material
+- Sponsorship packages
+- Website assets
 
 If the BCHWG is disbanded before a CSCU general election, the new CSCU Executive Council may attempt to recreate the BCHWG by appointing a new CSCU Representative and seeking applications for members.
 
