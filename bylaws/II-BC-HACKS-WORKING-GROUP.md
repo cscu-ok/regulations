@@ -1,5 +1,7 @@
 # Bylaw II — BC Hacks Working Group
 
+Bylaw II was adopted with the authority of the CSCU Executive Council on 2024-01-27.
+
 ## 0. Definitions
 
 - The BCHWG - BC Hacks Working Group

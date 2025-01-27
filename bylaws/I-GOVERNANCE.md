@@ -1,5 +1,7 @@
 # Bylaw I — Governance
 
+Bylaw I was adopted with the authority of the CSCU Executive Council on 2024-01-27.
+
 ## 0. Definitions
 
 The key words "must", "must not", "required", "shall", "shall not", "should", "should not", "recommended",  "may", and "optional" in this document are to be interpreted as described in [RFC 2119](https://datatracker.ietf.org/doc/html/rfc2119).
