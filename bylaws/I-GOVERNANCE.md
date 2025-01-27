@@ -51,6 +51,8 @@ Bylaws must be described in writing and provided in a way that is accessible to 
 
 A bylaw is adopted with a level of authority equivalent to the circle that adopts it. If a bylaw is adopted by a circle, in as much as the bylaw pertains to its sub-circles, sub-circles must not make decisions that violate the bylaw. If a sub-circle passes a bylaw that contradicts or weakens a bylaw adopted by a more authoritative circle, that decision is void.
 
+If the CSCU General Membership is to adopt a bylaw, it shall use Robert's Rules of Order in place of the decision making process described in Bylaw I and adoption of the bylaw with its authority shall be an ordinary resolution.
+
 #### 3.1.1 CSCU Bylaws
 
 A CSCU Bylaw is the most authoritative form of bylaw that affects the CSCU Executive Council and all sub-circles it pertains to, and may be adopted by the CSCU Executive Council or the General Voting Membership.
