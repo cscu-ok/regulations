@@ -33,11 +33,9 @@ Members of the BCHWG may occupy more than one role as required, however The BCHW
 
 All members excluding the CSCU Representative of the the BCHWG may remain members of the the BCHWG so long as:
 - They want to
-- The members of the BCHWG don't decide to remove them from the team.
+- Two-thirds (⅔) of the BCHWG don't decide to remove them from the team.
 
 The CSCU Representative serves as the CSCU Representative from the time they are appointed until the end of the subsequent CSCU election. The CSCU Executive Council may decide to replace the CSCU Representative at will. The newly elected team of the CSCU shall be responsible for appointing a new CSCU Representative.
-
-If all members of the BCHWG decide a member should be removed except for the member in question, judgment shall be deferred to the CSCU Executive Council.
 
 Decisions in the BCHWG shall be made according to Bylaw I of the CSCU.
 
@@ -49,7 +47,7 @@ The BCHWG must not hold any money independently. All finances shall be conducted
 
 The CSCU must apply for funding from the SUO for BC Hacks during Winter Term 1 or Winter Term 2, depending on when the main, annual BC Hacks event is taking place.
 
-The CSCU may, with the approval of the BCHWG, seek ratification for the BCHWG as a student association unto itself. If the BCHWG is to be ratified as a student association, it shall be subject to a modification of this bylaw as adopted by both the CSCU and the BCHWG.
+The CSCU may, with the approval of the BCHWG, seek ratification for the BCHWG as an SUO club unto itself. If the BCHWG is to be ratified as a club, it shall be subject to a modification of this bylaw as adopted by both the CSCU and the BCHWG.
 
 The CSCU may host the CSCU AGM during either the opening ceremony or closing ceremony of BC Hacks at its own discretion.
 
