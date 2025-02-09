@@ -1,6 +1,6 @@
 # Bylaw I — Governance
 
-Bylaw I was adopted with the authority of the CSCU Executive Council on 2024-01-27.
+Bylaw I was adopted with the authority of the CSCU Executive Council on 2025-01-27. It was further adopted with the authority of the CSCU General Members on 2025-02-07.
 
 ## 0. Definitions
 
