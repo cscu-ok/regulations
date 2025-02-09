@@ -1,4 +1,4 @@
-# THE CONSTITUTION OF THE COMPUTER SCIENCE COURSE UNION
+# THE CONSTITUTION OF THE COMPUTATIONAL SCIENCE COURSE UNION
 
 Last amended: the 22<sup>nd</sup> of March, 2024
 
@@ -8,7 +8,7 @@ Last amended: the 22<sup>nd</sup> of March, 2024
 
 ## Name
 
-This Course Union shall be known as the Students’ Union Okanagan of University of British Columbia (SUO of UBC) Computer Science Course Union (henceforth CSCU)
+This Course Union shall be known as the Students’ Union Okanagan of University of British Columbia (SUO of UBC) Computational Science Course Union (henceforth CSCU)
 
 ## Mission Statement
 
