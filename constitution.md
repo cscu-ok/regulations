@@ -54,6 +54,7 @@ The Executive Council shall consist of the:
     <li>Vice President-External</li>
     <li>Secretary</li>
     <li>Lower Year Representative</li>
+    <li>Graduate Student Representative</li>
 </ol>
 
 The Vice President-Internal shall be responsible for:
@@ -115,6 +116,13 @@ The Lower Year Representative shall be responsible for:
 <ol type='a'>
     <li>Representing the interests of first and second year CSCU General Members on the council</li>
     <li>Serving as a correspondent to first and second year CSCU General Members</li>
+</ol>
+
+The Graduate Student Representative shall be responsible for:
+
+<ol type='a'>
+    <li>Representing the interests of CSCU General Members who are graduate students</li>
+    <li>Serving as a correspondent to CSCU General Members who are graduate students</li>
 </ol>
 
 If a member of this Course Union raises concerns to the SUO Board regarding actions by an Executive Member, the Board can choose to commence an investigation to determine if the Executive in question is acting in the best interest of the Course Union or shall be removed from office
