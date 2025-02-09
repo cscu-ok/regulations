@@ -163,7 +163,7 @@ Starting August 1st, of every year, this Course Union shall cease to receive sup
 
 <ol type='a'>
     <li>submitting a Student Association renewal form to renew their status after July 1st; and</li>
-    <li>maintaining a membership of a minimum of fifteen (15) members, excluding executives.<li>
+    <li>maintaining a membership of a minimum of fifteen (15) members, excluding executives.</li>
 </ol>
 
 This Course Union may submit their renewal form starting May 1st, once the Annual Election has been carried out and ratified during Term 2. These requirements must be met and approved by the Board by the first Friday of Term One Classes of each year, if not, the Student Association shall not receive support from the Student Union.
