@@ -30,7 +30,7 @@ If the Course Union receives more than $2,000 in student association funding, th
 
 ## Executive Members
 
-The President, Vice President Finance, and Vice President Events shall be the designated signing officers of the Course Union. The Executive Council shall meet a minimum of once per month. Meetings shall be open to all members of the Course Union, and a minimum of two-thirds (2/3) Executive Members shall be present in order to establish the quorum.
+The Vice President Internal, Vice President Finance, and Vice President Events shall be the designated signing officers of the Course Union. The Executive Council shall meet a minimum of once per month. Meetings shall be open to all members of the Course Union, and a minimum of two-thirds (2/3) Executive Members shall be present in order to establish the quorum.
 
 The requirements of an Executive Council include, but are not limited to:
 
@@ -47,7 +47,7 @@ The requirements of an Executive Council include, but are not limited to:
 The Executive Council shall consist of the:
 
 <ol type='a'>
-    <li>President</li>
+    <li>Vice President-Internal</li>
     <li>Vice President-Finance</li>
     <li>Vice President-Events</li>
     <li>Vice President-Student Relations</li>
@@ -56,14 +56,13 @@ The Executive Council shall consist of the:
     <li>Lower Year Representative</li>
 </ol>
 
-The President shall be responsible for:
+The Vice President-Internal shall be responsible for:
 
 <ol type='a'>
     <li>Preparing, drafting, and presenting the President’s report on their operations at the Course Union’s AGM;</li>
-    <li>Act as the primary liaison between the Course Union and the Student Union and must be familiar with all SUO bylaws and policies;</li>
+    <li>Act as the primary liaison between the Course Union, the Student Union, Student Union-affiliated student associations, and UBCO officials and must be familiar with all SUO bylaws and policies;</li>
     <li>Submitting Expense Reimbursement Forms to the Membership Outreach Coordinator in absence of the Vice President Finance; and</li>
-    <li>Leading council meetings</li>
-    <li>Overseeing and delegating tasks to appropriate council members as necessary</li>
+    <li>Sign as ‘The President’ of the CSCU as required by the Student Union”</li>
     <li>Act as a signing authority</li>
 </ol>
 
@@ -106,8 +105,9 @@ The Vice President-External shall be responsible for:
 The Secretary shall be responsible for
 
 <ol type='a'>
-    <li>The taking of minutes at Course Union meetings; and</li>
+    <li>The taking of minutes at Course Union meetings</li>
     <li>Organizing agendas for Course Union meetings</li>
+    <li>Leading Course Union meetings</li>
 </ol>
 
 The Lower Year Representative shall be responsible for:
@@ -131,13 +131,13 @@ Only Executive and Council members are entitled to vote at General Meetings. All
 Voting Membership in this Course Union shall be comprised entirely of CSCU General Members. Each member of this Course Union is eligible to:
 
 <ol type='a'>
-    <li>Exercise one (1) vote in the election of the Course Union President and for every other Executive Member.</li>
+    <li>Exercise one (1) vote in the election of the Course Union Vice President Internal and for every other Executive Member.</li>
     <li>Vote for each vacant position on a Council, provided that they may only cast one (1) vote for any given Candidate.</li>
 </ol>
 
 ## Elections
 
-All executive positions, including President, Secretary, and Vice President Finance and Vice President Events shall serve a twelve (12) month term of office, and be elected through an annual election in Term 2 carried out in partnership with the SUO and the online Simply Voting platform. If a situation arises where there is conflict between this Course Unions’ election bylaws and the SUO policies, the SUO election bylaws will take precedence.
+All executive positions, including Vice President Internal, Secretary, and Vice President Finance and Vice President Events shall serve a twelve (12) month term of office, and be elected through an annual election in Term 2 carried out in partnership with the SUO and the online Simply Voting platform. If a situation arises where there is conflict between this Course Unions’ election bylaws and the SUO policies, the SUO election bylaws will take precedence.
 
 Every current member of this Course Union is eligible to seek election to any position within the Course Union, however a candidate may only run for one position within the Course Union Executive team.
 
@@ -207,7 +207,7 @@ The Constitution of this Course Union may only be amended by a two-thirds (⅔) 
 ### Suspension Procedure
 
 <ol type='a'>
-    <li>If a council member has reason to believe another executive member’s actions warrant suspension, they will communicate with the President and an internal investigation will be held</li>
+    <li>If a council member has reason to believe another executive member’s actions warrant suspension, they will communicate with the Vice President Internal and an internal investigation will be held</li>
     <li>The council member in question will be notified, given an opportunity to present their case before the rest of the council, and a fair hearing shall be conducted</li>
     <li>A final vote by the Executive Council, requiring a two-thirds (⅔) majority, will determine if the council member shall be suspended</li>
     <li>The suspended council member will be relieved of their responsibilities and will retain their position.</li>
