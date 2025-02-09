@@ -1,6 +1,6 @@
 # THE CONSTITUTION OF THE COMPUTATIONAL SCIENCE COURSE UNION
 
-Last amended: the 22<sup>nd</sup> of March, 2024
+Last amended on 2025-02-07.
 
 ## Definitions
 
