@@ -4,7 +4,7 @@ Last amended: the 22<sup>nd</sup> of March, 2024
 
 ## Definitions
 
-- “Computer Science Students” – A student enrolled at the University of British Columbia Okanagan, registered in an academic program offered by the Faculty of Science, including students registered for either Bachelor of Science or Bachelor of Arts programs, majoring or minoring in Computer Science, or a student who has not declared their major or minor who is registered for at least three credits of courses listed under a course code compatible with this definition.
+- “CSCU General Members” – A student enrolled at the University of British Columbia Okanagan, registered in an academic program offered by the Faculty of Science, including students registered for either Bachelor of Science or Bachelor of Arts programs, majoring or minoring in Computer Science or Data Science, or a student who has not declared their major or minor who is registered for at least three credits of courses listed under a course code compatible with this definition.
 
 ## Name
 
@@ -12,7 +12,7 @@ This Course Union shall be known as the Students’ Union Okanagan of University
 
 ## Mission Statement
 
-The CSCU exists as a course union and interest group for Computer Science Students at the University of British Columbia Okanagan. Our goal is to cater to the wellbeing and academic development of our membership by offering events and services that are based on our three founding principles: Professional Development, Community Engagement, and Student Advocacy. By hosting interdisciplinary events, workshops, and study sessions representing the interests of students, we hope to foster a space of inclusivity, friendship, and lifelong learning.
+The CSCU exists as a course union and interest group for CSCU General Members at the University of British Columbia Okanagan. Our goal is to cater to the wellbeing and academic development of our membership by offering events and services that are based on our three founding principles: Professional Development, Community Engagement, and Student Advocacy. By hosting interdisciplinary events, workshops, and study sessions representing the interests of students, we hope to foster a space of inclusivity, friendship, and lifelong learning.
 
 ## Purpose
 
@@ -20,7 +20,7 @@ The purpose of this Student Association is to support the academic, professional
 
 ## Course Union Membership
 
-This Course Union membership will include all Computer Science Students. All members of the Course Union will be afforded equal rights and opportunities to participate in all activities and initiatives hosted by this Course Union. Members of this Course Union must have access to the dates and locations of Council meetings and are welcome to attend unless called “in camera” by the meeting chair.
+This Course Union membership will include all CSCU General Members. All members of the Course Union will be afforded equal rights and opportunities to participate in all activities and initiatives hosted by this Course Union. Members of this Course Union must have access to the dates and locations of Council meetings and are welcome to attend unless called “in camera” by the meeting chair.
 
 ## Budgeting
 
@@ -113,8 +113,8 @@ The Secretary shall be responsible for
 The Lower Year Representative shall be responsible for:
 
 <ol type='a'>
-    <li>Representing the interests of first and second year Computer Science Students on the council</li>
-    <li>Serving as a correspondent to first and second year Computer Science Students</li>
+    <li>Representing the interests of first and second year CSCU General Members on the council</li>
+    <li>Serving as a correspondent to first and second year CSCU General Members</li>
 </ol>
 
 If a member of this Course Union raises concerns to the SUO Board regarding actions by an Executive Member, the Board can choose to commence an investigation to determine if the Executive in question is acting in the best interest of the Course Union or shall be removed from office
@@ -128,7 +128,7 @@ Quorum for the Course Union’s AGM shall be 25 members or 5% of Course Union me
 Only Executive and Council members are entitled to vote at General Meetings. All Course Union members shall be entitled to vote at Annual General Meetings and Special General Meetings. Special General Meetings may be called at any time by the Executive Council. The Secretary shall prepare the agenda for General Meetings.
 
 ## Membership Voting
-Voting Membership in this Course Union shall be comprised entirely of Computer Science Students. Each member of this Course Union is eligible to:
+Voting Membership in this Course Union shall be comprised entirely of CSCU General Members. Each member of this Course Union is eligible to:
 
 <ol type='a'>
     <li>Exercise one (1) vote in the election of the Course Union President and for every other Executive Member.</li>
