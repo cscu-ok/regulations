@@ -4,7 +4,7 @@ Last amended: the 22<sup>nd</sup> of March, 2024
 
 ## Definitions
 
-- “Computer Science Students” – A student enrolled at the University of British Columbia Okanagan, registered in an academic program offered by the Faculty of Science, majoring or minoring in Computer Science.
+- “Computer Science Students” – A student enrolled at the University of British Columbia Okanagan, registered in an academic program offered by the Faculty of Science, majoring or minoring in Computer Science, or a student who has not declared their major or minor who is registered for at least three credits of courses listed under a course code compatible with this definition.
 
 ## Name
 
